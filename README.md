@@ -1,1 +1,1 @@
-# my-meals-app
+# meals-app
